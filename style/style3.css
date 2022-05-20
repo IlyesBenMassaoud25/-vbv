@@ -1,0 +1,63 @@
+.main{
+    margin-top: 140px;
+    margin-bottom: 150px;
+}
+.problems p {
+    font-size: 30px;
+    color: rgb(123, 186, 217);
+    padding-left: 40px;
+}
+.problems textarea{
+    width: 40%;
+    height: 250px;
+    margin-top: 50px;
+    font-size: 25px;
+    text-align: left;
+    color: gray;
+}
+.textarea{
+    display: flex;
+    flex-direction: column;
+    color: grey;
+    font-size: 17pX;
+    justify-content: center;
+    align-items: flex-start     ;
+    padding-left: 200px;
+    
+}
+textarea span{
+    text-align: center;
+    width: 60%;
+}
+.fillment{
+    display: flex;
+    flex-direction: column;
+    color: rgb(123, 186, 217);
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.labels{
+    display: flex;flex-direction: column;
+    width: 25%;
+    font-size:  15px;
+}
+.SUBMIT{
+    width:150px;
+    height: 50px;
+    position: absolute;
+    left: 60%;
+    border: groove;
+    border-color: black;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 6px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.SUBMIT:hover{
+    color: rgb(123, 186, 217);
+
+}
